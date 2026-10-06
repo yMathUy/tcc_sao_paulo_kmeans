@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dados locais
+data/*.csv
+data/*.zip
+data/distritos_sp/
+
+# Saídas geradas
+outputs/*.png
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
